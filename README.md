@@ -124,25 +124,25 @@ cap.release()
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
 
-<img width="704" height="475" alt="image" src="https://github.com/user-attachments/assets/42098d67-2c37-471b-9595-d273fbb1674b" />
+<img width="635" height="501" alt="image" src="https://github.com/user-attachments/assets/e5b03aaf-95cd-4c94-a278-8831ba21ac37" />
 
 
 ### ii) Display the video
 Live webcam video is displayed
 
-<img width="636" height="486" alt="image" src="https://github.com/user-attachments/assets/af63d260-8e9c-4067-82d0-cbdb223d8ec3" />
+<img width="637" height="481" alt="image" src="https://github.com/user-attachments/assets/ad84d3e3-cf4f-4f36-9adc-3ef3761543d2" />
 
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 
-<img width="353" height="494" alt="image" src="https://github.com/user-attachments/assets/fb953a53-2489-4d81-b3d8-b02bdf8946c9" />
+<img width="327" height="474" alt="image" src="https://github.com/user-attachments/assets/8a42acc6-6308-42ff-8fb0-569b78fc3455" />
 
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
 
-<img width="376" height="482" alt="image" src="https://github.com/user-attachments/assets/457133a5-3a28-4f6c-b104-80f5bcb59c69" />
+<img width="318" height="435" alt="image" src="https://github.com/user-attachments/assets/47076b0e-4d42-44ac-ac15-860db1ddab35" />
 
 
 ---
